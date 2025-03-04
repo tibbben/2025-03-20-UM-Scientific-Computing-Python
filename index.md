@@ -46,7 +46,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 <h2 id="general">Registration</h2>
-Please use this <a href="https://events.miami.edu/event/software-carpentry-r--spring-2025">event link</a> to register.
+Please use this <a href="https://events.miami.edu/event/software-carpentry-python-spring-2025">event link</a> to register.
 
 <h2 id="general">General Information</h2>
 
